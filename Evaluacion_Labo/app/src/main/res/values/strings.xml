@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Evaluacion_Labo</string>
+    <string name="usuario">Usuario</string>
+    <string name="correo">Correo</string>
+    <string name="edad">Edad</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="user">USER</string>
+    <string name="email">Email</string>
+    <string name="age">AGE</string>
+    <string name="password">Password</string>
+    <string name="share">SHARE</string>
+</resources>
